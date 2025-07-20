@@ -1,4 +1,1 @@
-{
-  "pair": "Net_Sales-Returns",
-  "correlation": -0.85
-}
+{ "pair": "Promo_Spend-Returns", "correlation": 0.04 }
